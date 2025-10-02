@@ -29,7 +29,9 @@
 - Customer Segmentation: Sales analysis by segment and region.
 
 ## Dashboard Preview
-- Super Store Sales Dashboard Screenshot (add image here)
+- <a href="https://github.com/Sakshammehta1101/Power-BI---Sales-Forecast-Dashboards/blob/main/Sales%20dashboard.pbix">Super Store Sales Dashboard</a>
+- ![Sales dashboard_page-0001](https://github.com/user-attachments/assets/04eca926-d50d-4a50-8dd3-57dad46a78be)
+
 
 ## Project Insights
 - California, New York, and Texas are top-performing states.
@@ -44,6 +46,8 @@
 - Optimize sales strategy and inventory planning.
 - Make data-driven decisions to maximize revenue growth.
 
+- 
+- 
 # Super Store 15 Days Sales Forecast Dashboard
 ## Project Description
 The Super Store 15 Days Sales Forecast Dashboard is an interactive Power BI dashboard focused on predicting upcoming sales performance using historical transaction data. The dashboard applies forecasting techniques to project 15 days of future sales, with confidence intervals, and provides a breakdown of sales by state. The purpose is to help businesses anticipate demand, plan inventory, and improve operational efficiency.
@@ -75,7 +79,8 @@ The Super Store 15 Days Sales Forecast Dashboard is an interactive Power BI dash
 - KPI Highlights: Max/Min sales, forecasted values, and variance.
 
 ## Dashboard Preview
-📷
+- <a href="https://github.com/Sakshammehta1101/Power-BI---Sales-Forecast-Dashboards/blob/main/Sales%20dashboard.pbix">Super Store 15 Days Sales Forecast Dashboard</a>
+- ![Sales dashboard_page-0002](https://github.com/user-attachments/assets/e1a7ca0d-c671-4967-ba0b-f576f2bd31ee)
 
 ## Project Insights
 - The forecast shows an expected upward trend in early 2021 with some fluctuations.
